@@ -1,0 +1,2 @@
+cat_id,actual_sales,forecast_sales,absolute_error,WAPE_percent
+HOBBIES,9890,9196.0,8884.785714285714,89.83605373393037

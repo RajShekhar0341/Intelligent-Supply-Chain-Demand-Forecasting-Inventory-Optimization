@@ -1,0 +1,4 @@
+stockout_risk,products,average_stockout_probability,total_recommended_order_qty,average_days_of_cover
+HIGH,68,68.67570090492116,20165,6.8729687925337375
+LOW,150,4.73849986391388,15889,13.40207765465197
+MEDIUM,82,32.87850304323821,17040,10.583747580929698

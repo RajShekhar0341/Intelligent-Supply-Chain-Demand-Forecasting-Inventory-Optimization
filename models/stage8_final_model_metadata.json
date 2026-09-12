@@ -1,0 +1,28 @@
+{
+    "model": "CatBoost",
+    "best_parameters": {
+        "iterations": 800,
+        "learning_rate": 0.014808945119975192,
+        "depth": 5,
+        "l2_leaf_reg": 17.16044502975481,
+        "random_strength": 1.9312640661491187
+    },
+    "optuna_trials": 10,
+    "cv_folds": 2,
+    "forecast_horizon_days": 28,
+    "stage7_validation_wape": 91.73153641522208,
+    "stage8_validation_wape": 90.38887177574732,
+    "final_test_metrics": {
+        "model": "CatBoost",
+        "MAE": 1.112305380183981,
+        "RMSE": 2.511290173708977,
+        "WAPE_percent": 94.71226754734356,
+        "RMSLE": 0.5696382378435207,
+        "Forecast_Bias": -0.013749650602151884
+    },
+    "training_start": "2011-02-26 00:00:00",
+    "training_end": "2016-04-24 00:00:00",
+    "test_start": "2016-04-25 00:00:00",
+    "test_end": "2016-05-22 00:00:00",
+    "model_file": "C:\\Users\\RAJ SHEKHAR\\Downloads\\Supply_Chain_DS_Project\\models\\final_optimized_catboost.cbm"
+}

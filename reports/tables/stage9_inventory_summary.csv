@@ -1,0 +1,10 @@
+metric,value
+inventory_source,SIMULATED
+total_products,300
+high_risk_products,68
+medium_risk_products,82
+low_risk_products,150
+products_requiring_reorder,241
+total_recommended_order_units,53094
+average_stockout_probability_pct,26.92
+average_days_of_cover,11.15
